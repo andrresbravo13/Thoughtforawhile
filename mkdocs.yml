@@ -1,4 +1,4 @@
-site_name: Thoughtforawhile Labs
+site_name: Thoughtforawhile
 theme:
   name: material
   features:
@@ -9,13 +9,13 @@ theme:
     - search.highlight
 
 nav:
-  - Home: index.md
+  - Home: Index.md
   - Start Here: start-here.md
   - Agenda: agenda.md
   - Roadmap: roadmap.md
 
   - Syllabus:
-      - Overview: syllabus/index.md
+      - Overview: syllabus/Index.md
       - Course 1: syllabus/course-01-ai-in-healthcare.md
       - Course 2: syllabus/course-02-medical-xr-robotics.md
       - Course 3: syllabus/course-03-ai-biomedical-discovery.md
@@ -25,7 +25,7 @@ nav:
       - Course 7: syllabus/course-07-neurotech-bci.md
 
   - Week-by-week:
-      - Overview: week-by-week/index.md
+      - Overview: week-by-week/Index.md
       - Course 1: week-by-week/course-01/index.md
       - Course 2: week-by-week/course-02/index.md
       - Course 3: week-by-week/course-03/index.md
@@ -46,16 +46,16 @@ nav:
           - Stakeholder Memo: assignments/templates/stakeholder-memo.md
 
   - Projects:
-      - Overview: projects/index.md
+      - Overview: projects/Index.md
       - PsychSync: projects/psychsync.md
       - MedPal: projects/medpal.md
       - Benchmarks: projects/benchmarks.md
       - Capstone: projects/capstone-command-center.md
 
   - Ethics & Safety:
-      - Overview: ethics/index.md
-      - Disclaimers: ethics/disclaimers.md
-      - Safety Policy: ethics/safety-policy.md
+      - Overview: ethics/Index.md
+      - Disclaimers: ethics/Disclaimers.md
+      - Safety Policy: ethics/Safety-policy.md
       - Data Governance: ethics/data-governance.md
       - Biosecurity & Misuse: ethics/biosecurity-misuse.md
 
