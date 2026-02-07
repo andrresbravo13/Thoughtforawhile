@@ -9,19 +9,22 @@
 ## Data
 - Source:
 - Inclusion/exclusion:
+- Representativeness notes:
 - Known biases:
 
-## Metrics
-- Primary:
+## Evaluation
+- Primary metrics:
 - Calibration:
-- Subgroup checks:
+- Robustness:
+- Subgroup checks (if possible):
 
 ## Risks and mitigations
 - Failure modes:
-- Human oversight:
-- Safe fallback:
+- Human oversight checkpoints:
+- Safe fallback behaviors:
 
 ## Reproducibility
 - Commit hash:
 - Environment:
 - Seed:
+- Run instructions:
