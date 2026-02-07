@@ -1,4 +1,4 @@
-site_name: Biomedical Singularity Program
+site_name: Thoughtforawhile Labs
 theme:
   name: material
   features:
@@ -10,7 +10,10 @@ theme:
 
 nav:
   - Home: index.md
+  - Start Here: start-here.md
+  - Agenda: agenda.md
   - Roadmap: roadmap.md
+
   - Syllabus:
       - Overview: syllabus/index.md
       - Course 1: syllabus/course-01-ai-in-healthcare.md
@@ -20,7 +23,17 @@ nav:
       - Course 5: syllabus/course-05-precision-genomics.md
       - Course 6: syllabus/course-06-global-medical-threats.md
       - Course 7: syllabus/course-07-neurotech-bci.md
-  - Week-by-week: week-by-week/index.md
+
+  - Week-by-week:
+      - Overview: week-by-week/index.md
+      - Course 1: week-by-week/course-01/index.md
+      - Course 2: week-by-week/course-02/index.md
+      - Course 3: week-by-week/course-03/index.md
+      - Course 4: week-by-week/course-04/index.md
+      - Course 5: week-by-week/course-05/index.md
+      - Course 6: week-by-week/course-06/index.md
+      - Course 7: week-by-week/course-07/index.md
+
   - Assignments:
       - Overview: assignments/index.md
       - Rubrics: assignments/rubrics.md
@@ -29,15 +42,29 @@ nav:
           - Experiment Log: assignments/templates/experiment-log.md
           - Model Card: assignments/templates/model-card.md
           - Dataset Card: assignments/templates/dataset-card.md
-  - Projects: projects/index.md
+          - Safety Case: assignments/templates/safety-case.md
+          - Stakeholder Memo: assignments/templates/stakeholder-memo.md
+
+  - Projects:
+      - Overview: projects/index.md
+      - PsychSync: projects/psychsync.md
+      - MedPal: projects/medpal.md
+      - Benchmarks: projects/benchmarks.md
+      - Capstone: projects/capstone-command-center.md
+
   - Ethics & Safety:
       - Overview: ethics/index.md
-      - Data Governance: ethics/data-governance.md
-      - Safety Policy: ethics/safety-policy.md
       - Disclaimers: ethics/disclaimers.md
+      - Safety Policy: ethics/safety-policy.md
+      - Data Governance: ethics/data-governance.md
+      - Biosecurity & Misuse: ethics/biosecurity-misuse.md
+
   - Validation:
       - Overview: validation/index.md
       - Reproducibility: validation/reproducibility.md
-      - Evaluation: validation/evaluation-metrics.md
+      - Evaluation Metrics: validation/evaluation-metrics.md
       - External Feedback: validation/external-feedback.md
+      - Changelog: validation/changelog.md
+
+  - Collaborate: collaborate.md
   - References: references.md
