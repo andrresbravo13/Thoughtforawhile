@@ -1,0 +1,43 @@
+site_name: Biomedical Singularity Program
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+
+nav:
+  - Home: index.md
+  - Roadmap: roadmap.md
+  - Syllabus:
+      - Overview: syllabus/index.md
+      - Course 1: syllabus/course-01-ai-in-healthcare.md
+      - Course 2: syllabus/course-02-medical-xr-robotics.md
+      - Course 3: syllabus/course-03-ai-biomedical-discovery.md
+      - Course 4: syllabus/course-04-advanced-ai-systems.md
+      - Course 5: syllabus/course-05-precision-genomics.md
+      - Course 6: syllabus/course-06-global-medical-threats.md
+      - Course 7: syllabus/course-07-neurotech-bci.md
+  - Week-by-week: week-by-week/index.md
+  - Assignments:
+      - Overview: assignments/index.md
+      - Rubrics: assignments/rubrics.md
+      - Templates:
+          - Project Proposal: assignments/templates/project-proposal.md
+          - Experiment Log: assignments/templates/experiment-log.md
+          - Model Card: assignments/templates/model-card.md
+          - Dataset Card: assignments/templates/dataset-card.md
+  - Projects: projects/index.md
+  - Ethics & Safety:
+      - Overview: ethics/index.md
+      - Data Governance: ethics/data-governance.md
+      - Safety Policy: ethics/safety-policy.md
+      - Disclaimers: ethics/disclaimers.md
+  - Validation:
+      - Overview: validation/index.md
+      - Reproducibility: validation/reproducibility.md
+      - Evaluation: validation/evaluation-metrics.md
+      - External Feedback: validation/external-feedback.md
+  - References: references.md
