@@ -9,15 +9,18 @@
 ## Composition
 - Population:
 - Size:
-- Labeling:
+- Labels:
+- Known gaps:
 
 ## Collection process
 - How collected:
 - Time period:
+- Inclusion/exclusion:
 
 ## Ethical considerations
 - Privacy:
-- Known limitations:
+- Potential bias:
+- Limitations:
 
 ## Recommended splits
 - Train/val/test:
