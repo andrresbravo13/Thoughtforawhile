@@ -32,6 +32,9 @@ Links to GitHub Pages, Medium, LinkedIn, and X are maintained on the hub.
 ## Collaboration
 If you’re open to mentoring, feedback, or pointing toward high-quality public datasets:
 - Email: **andres@thoughtforawhile.com**
+- X: @andresbravo13
+- Medium: @andres-bravo
+- LinkedIn: https://LinkedIn.com/in/andres-m-bravo/
 
 ## License
 Unless otherwise stated, content is shared under a permissive license for learning and reuse.
